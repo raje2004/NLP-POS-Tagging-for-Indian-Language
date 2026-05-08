@@ -66,9 +66,9 @@ Hindi-POS-Tagger/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/raje2004/Hindi-POS-Tagger.git
+git clone https://github.com/raje2004/NLP-POS-Tagging-for-Indian-Language.git
 
-cd Hindi-POS-Tagger
+cd NLP-POS-Tagging-for-Indian-Language
 ```
 
 
